@@ -1,6 +1,7 @@
 ﻿DBCC FREEPROCCACHE;
 DBCC FREEPROCCACHE;
 
+
 use PortfolioProjects;
 --===========================================================================
 -- Data Cleaning Portfolio Project Nashville Housing 
